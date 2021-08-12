@@ -1,4 +1,4 @@
-# python101
+# Python101
 
 Install Jupyter :
 *Pastikan sudah install python terlebih dahulu. Python: https://www.python.org/downloads/
