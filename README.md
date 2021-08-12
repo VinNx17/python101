@@ -15,7 +15,7 @@ Link Materi:
 https://unej.id/python101
 
 Rekomendasi:
-https://www.w3schools.com/
-https://belajarpython.com/
-https://www.pythonindo.com/
-Yt Channel Kelas Terbuka
+1. https://www.w3schools.com/
+2. https://belajarpython.com/
+3. https://www.pythonindo.com/
+4. Yt Channel Kelas Terbuka
