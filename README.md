@@ -11,9 +11,6 @@ Open Jupyter :
 2. Ketika, "jupyter notebook"
 3. Jupyter akan terbuka melalui browser default kalian.
 
-Link Materi:
-https://unej.id/python101
-
 Rekomendasi:
 1. https://www.w3schools.com/
 2. https://belajarpython.com/
