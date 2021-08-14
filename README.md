@@ -6,6 +6,8 @@ Install Jupyter :
 2. Ketik, "pip install jupyter notebook"
 3. Tunggu hingga muncul tulisan succes.
 
+Atau bisa via Visual Studio Code. Tinggal install ekstensi jupyter.
+
 Open Jupyter :
 1. Buka CMD
 2. Ketika, "jupyter notebook"
