@@ -10,7 +10,7 @@ Atau bisa akses jupyter via Visual Studio Code. Tinggal install ekstensi jupyter
 
 Open Jupyter :
 1. Buka CMD
-2. Ketika, "jupyter notebook"
+2. Ketik, "jupyter notebook"
 3. Jupyter akan terbuka melalui browser default kalian.
 
 Rekomendasi:
