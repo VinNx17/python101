@@ -15,6 +15,4 @@ Open Jupyter :
 
 Rekomendasi:
 1. https://www.w3schools.com/
-2. https://belajarpython.com/
-3. https://www.pythonindo.com/
-4. Yt Channel Kelas Terbuka
+2. Yt Channel Kelas Terbuka
